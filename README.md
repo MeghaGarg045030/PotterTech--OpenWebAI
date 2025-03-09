@@ -120,6 +120,6 @@ You are not just an AI—you are an experience!
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** - see the  file for details. 
+This project is licensed under the **MIT License** -[LICENSE](https://github.com/MeghaGarg045030/PotterTech-OpenWebAI/blob/main/LICENSE) see the  file for details. 
 
 
