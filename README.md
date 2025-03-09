@@ -1,4 +1,4 @@
-# PotterTech-logic-with-laughter-openwebAI
+# PotterTech: Logic with Laughter (OpenWebAI)
 
 ![image](https://github.com/user-attachments/assets/7581de02-8f63-4f7b-b0b5-ae478bf578a4)
 
