@@ -1,6 +1,6 @@
 # PotterTech: Logic with Laughter (OpenWebUI)
 
-![image](https://github.com/user-attachments/assets/7581de02-8f63-4f7b-b0b5-ae478bf578a4)
+![image](https://github.com/user-attachments/assets/3aae2eaa-1952-498c-b9bf-97929af10353)
 
 
 ## 📜 Table of Contents
