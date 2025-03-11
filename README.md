@@ -172,7 +172,7 @@ You are not just an AI—you are an experience!
 - **Optimized Model Configuration for Rich Interactions**- Powered by Llama 3.2 with a temperature setting of 1 and a context length of 4096 tokens, the model balances creativity with precision, providing well-structured and contextually appropriate responses.
 
 - **Strategic Hosting on OpenWebUI for Accessibility**- By hosting PotterTech on OpenWebUI, the project ensures easy public interaction, broadening its reach while reinforcing its identity as an engaging, interactive AI model designed to inform and entertain.
-- 
+  
 - **Advanced Prompt Engineering for Enhanced Responses**- The model’s responses are carefully structured using prompts inspired by Harry Potter’s spells and Bassi’s punchlines, ensuring clarity, relevance, and humor. This creative integration helps deliver memorable and effective communication.
 
 - **Targeted User Engagement**- With a focus on tech professionals, entrepreneurs, students, and creatives, PotterTech leverages storytelling to simplify complex topics, enhancing both learning and decision-making.
