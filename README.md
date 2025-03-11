@@ -6,7 +6,7 @@
 ## 📜 Table of Contents
 - [🔹About the Project](#-about-the-project)
 - [🔹About the Model](#-about-the-model)
-- [🚀 Sample Conversations](#-sample-conversations)
+- [🚀 Sample Conversation Screen Recording](#-sample-conversation-screen-recording)
 - [🔥 Prompt Suggestions](#-prompt-suggestions)
 - [🛠 System Prompt](#-system-prompt)
 - [📜 License](#-license)
@@ -47,7 +47,7 @@ PotterTech is an **LLM-based AI model** designed to blend wisdom, intelligence, 
 
 ---
 
-## 🚀 Sample Conversations
+## 🚀 Sample Conversation Screen Recording
 
 https://github.com/user-attachments/assets/998770c4-5583-4283-8b6f-a0466de61370
 
