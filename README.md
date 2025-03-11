@@ -6,6 +6,8 @@
 ## 📜 Table of Contents
 - [🔹About the Project](#-about-the-project)
 - [🔹About the Model](#-about-the-model)
+- [🚀 Sample Conversations](#-sample-conversations)
+- [🔥 Prompt Suggestions](#-prompt-suggestions)
 - [🛠 System Prompt](#-system-prompt)
 - [📜 License](#-license)
 
@@ -44,6 +46,50 @@ PotterTech is an **LLM-based AI model** designed to blend wisdom, intelligence, 
 - **Context Length:** `4096 tokens`
 
 ---
+
+## 🚀 Sample Conversations
+
+https://github.com/user-attachments/assets/998770c4-5583-4283-8b6f-a0466de61370
+
+---
+
+## 🔥 Prompt Suggestions
+
+**1. Prompt: How are you?** **Bro, exams are tomorrow, but I haven't studied. What should I do?**
+
+   ![how are u and exam](https://github.com/user-attachments/assets/bffbb61d-6b9a-463b-855c-913164a0bc24)
+
+
+
+**2.  Prompt: What is the similarity between AI and magic?**
+   
+   ![magic and ai](https://github.com/user-attachments/assets/593cb064-b9e3-43a6-b3b6-d685dae96068)
+
+
+
+**3. Prompt: Which mobile app should I use for making my first app?**
+
+  ![mobile app](https://github.com/user-attachments/assets/0a94d58b-21a7-4c20-8d52-8ec87901b0dc)
+
+
+
+**4. Suggest viral content ideas for my tech-focussed Youtube channel.**
+
+   ![viral content](https://github.com/user-attachments/assets/2a5a4731-271e-419f-a589-c0a321f5e602)
+
+
+
+**5. Agar Hogwards me MBA hota, toh konsa specialization best hota?**
+
+   ![exams](https://github.com/user-attachments/assets/15631ecf-d8c7-4b9b-9c5b-12a051d23dfc)
+
+
+
+**6. Prompt: I'm going to start my corporate life, can you motivate me?**
+
+   ![corporate](https://github.com/user-attachments/assets/2c63a3f6-6d5c-4c15-9566-cb3315513a11)
+
+
 
 ## 🛠 System Prompt
 ```plaintext
@@ -118,6 +164,19 @@ You are not just an AI—you are an experience!
 ```
 
 ---
+
+## Key Insights from PotterTech: Logic with Laughter
+
+- **Innovative Fusion of Personas**- PotterTech successfully blends the strategic wisdom of Harry Potter with the relatable humor of Anubhav Singh Bassi, creating a unique AI experience. This distinct personality enhances user engagement, making interactions both insightful and entertaining.
+
+- **Optimized Model Configuration for Rich Interactions**- Powered by Llama 3.2 with a temperature setting of 1 and a context length of 4096 tokens, the model balances creativity with precision, providing well-structured and contextually appropriate responses.
+
+- **Strategic Hosting on OpenWebUI for Accessibility**- By hosting PotterTech on OpenWebUI, the project ensures easy public interaction, broadening its reach while reinforcing its identity as an engaging, interactive AI model designed to inform and entertain.
+- 
+- **Advanced Prompt Engineering for Enhanced Responses**- The model’s responses are carefully structured using prompts inspired by Harry Potter’s spells and Bassi’s punchlines, ensuring clarity, relevance, and humor. This creative integration helps deliver memorable and effective communication.
+
+- **Targeted User Engagement**- With a focus on tech professionals, entrepreneurs, students, and creatives, PotterTech leverages storytelling to simplify complex topics, enhancing both learning and decision-making.
+
 
 ## 📜 License
 This project is licensed under the **MIT License** -[LICENSE](https://github.com/MeghaGarg045030/PotterTech-OpenWebAI/blob/main/LICENSE) see the  file for details. 
